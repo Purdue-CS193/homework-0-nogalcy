@@ -1,6 +1,6 @@
-## Cy Logan's First CS 193 Homework!!
+# Cy Logan's First CS 193 Homework!!
 
-# My Favorite things about CS 193
+### My Favorite things about CS 193
 - The professors are super nice
 - They answer questions very quick
 - The class prepares me for future CS classes so I am not left behind :)
